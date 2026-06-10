@@ -1,2 +1,14 @@
 # Embedded-C-Practice
-Embedded C programs covering arrays, strings, pointers, structures, bitwise operations, and problem-solving fundamentals.
+This repository contains Embedded C programs and problem-solving exercises completed as part of my Embedded Systems learning journey.
+
+## Topics Covered
+- Arrays
+- Strings
+- Pointers
+- Structures
+- Functions
+- Bitwise Operations
+
+## Target Domain
+- Embedded Systems
+- Firmware Development
